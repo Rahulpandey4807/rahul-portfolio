@@ -264,7 +264,7 @@ export const siteConfig = {
   description:
     "Portfolio of Rahul Pandey, an Information Technology graduate with a foundation in databases, networking, and software development. Explore projects, experience, and ways to connect.",
   // Replace with the real production domain before deploying.
-  url: "https://rahulpandey.dev",
+  url: "https://rahulpandey4807.vercel.app",
   keywords: [
     "Rahul Pandey",
     "Rahul Pandey portfolio",
