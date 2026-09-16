@@ -100,7 +100,7 @@ export default function RootLayout({
         "@id": `${siteConfig.url}/#profilepage`,
         url: siteConfig.url,
         name: siteConfig.title,
-        about: { "@id": `${siteConfig.url}/#person` },
+        mainEntity: { "@id": `${siteConfig.url}/#person` },
         isPartOf: { "@id": `${siteConfig.url}/#website` },
       },
     ],
